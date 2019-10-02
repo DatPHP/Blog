@@ -1,0 +1,5 @@
+<section id="helloworld" translate="label" sortOrder="130" showInDefault="1" showInWebsite="1" showInStore="1">
+    ….
+    <resource>Mageplaza_HelloWorld::helloworld_configuration</resource>
+    ….
+</section>
